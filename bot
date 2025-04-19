@@ -1,6 +1,6 @@
 getgenv().Username = "ohforf1" -- The username of the person you want to have full control over the bots.
 getgenv().Prefix = "." -- With what symbol the cmds should start with. (e.g. if its . then .cmds if its ; then ;cmds)
-getgenv().Bots = {"Red","Blue","Yellow","White"} -- The display names of the bots you gonna run the script on.
+getgenv().Bots = {"Red","Blue","Purple","White"} -- The display names of the bots you gonna run the script on.
 getgenv().logChat = true -- If true it will start logging message to the discord webhook after running the script. If false it wont start logging messages until you run logchat enable.
 getgenv().webhook = "https://discord.com/api/webhooks/1363271638178730034/p9SjoWN3QX4UJHymaD7Ga4H-p8y6a0fObbKeLQV1Vkb1so315wrbe5z799T9In6UGFLk"  -- Discord webhook url for logging.
 
